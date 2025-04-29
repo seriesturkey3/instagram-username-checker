@@ -1,4 +1,3 @@
 streamlit
 plotly
-plotly.graph_objects as go
 pandas
