@@ -127,7 +127,7 @@ def main():
             font-size: 1.2rem;
         }
         </style>
-    """, unsafe_allow_html=False)
+    """, unsafe_allow_html=True)
 
     st.title("📸 Instagram Username Checker")
     st.markdown("---")
