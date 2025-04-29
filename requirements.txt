@@ -1,11 +1,5 @@
 streamlit
 plotly
 pandas
-string
-random
 requests
-datetime
-Image
-BytesIO
-json
-base64
+Pillow
